@@ -1,6 +1,5 @@
 # Hi-Striker
-Author: Jonathan Warren
 
-Last Updated: January 2017
+Code and project files for a Hi-Striker style carnival game
 
-URL: https://jhwarren.com/jobs/wonderMakr/HiStriker/
+https://jhwarren.com/jobs/wonderMakr/HiStriker/
